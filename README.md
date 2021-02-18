@@ -12,5 +12,5 @@
    
 
 **Cambiar puerto**
-Para cambiar el puerto debemos ir a src/main/resources/application.properties y añadir server.port=numero puerto
 
+Para cambiar el puerto debemos ir a src/main/resources/application.properties y añadir server.port=numero puerto
